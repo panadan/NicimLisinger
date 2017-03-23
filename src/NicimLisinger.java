@@ -107,7 +107,7 @@ public class NicimLisinger {
 	}
 
 	/**
-	 * Create the application.
+	 * Create the application. x
 	 */
 	public NicimLisinger() {
 		initialize();
